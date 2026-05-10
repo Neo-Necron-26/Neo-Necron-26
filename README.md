@@ -95,8 +95,11 @@ SibFU (Siberian Federal University), Krasnoyarsk — Software Engineering
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neo-Necron-26&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Necron-26&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ###
