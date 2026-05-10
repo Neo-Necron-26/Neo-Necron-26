@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -79,7 +79,25 @@ SibFU (Siberian Federal University), Krasnoyarsk — Software Engineering
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 ###
@@ -89,23 +107,23 @@ SibFU (Siberian Federal University), Krasnoyarsk — Software Engineering
 ###
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo-Necron-26&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo-Necron-26&theme=nord" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&theme=radical" alt="GitHub Stats" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neo-Necron-26&theme=radical&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&theme=nord" alt="GitHub Stats" />
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo-Necron-26&theme=radical" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Neo-Necron-26&theme=nordl&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo-Necron-26&theme=nord" alt="Activity Graph" />
 </p>
 
 ###
