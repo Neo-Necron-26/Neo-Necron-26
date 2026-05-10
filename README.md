@@ -110,10 +110,6 @@ SibFU (Siberian Federal University), Krasnoyarsk — Software Engineering
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo-Necron-26&theme=nord" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&theme=nord" alt="GitHub Stats" />
-</p>
-
 ###
 
 <p align="center">
