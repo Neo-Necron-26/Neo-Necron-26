@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 ###
@@ -88,29 +88,24 @@ SibFU (Siberian Federal University), Krasnoyarsk — Software Engineering
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Neo-Necron-26&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo-Necron-26&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&theme=radical" alt="GitHub Stats" />
+</p>
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=Neo-Necron-26&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Necron-26&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Neo-Necron-26&theme=radical&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ###
 
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Neo-Necron-26&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
-###
-
-<div align="center">
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Neo-Necron-26&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo-Necron-26&theme=radical" alt="Activity Graph" />
+</p>
 
 ###
